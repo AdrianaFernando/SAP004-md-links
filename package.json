@@ -1,4 +1,22 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianaFernando/SAP004-md-links.git"
+  },
+  "author": "Adriana Fernando <adriana,drih@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianaFernando/SAP004-md-links/issues"
+  },
+  "homepage": "https://github.com/AdrianaFernando/SAP004-md-links#readme"
 }
