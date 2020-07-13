@@ -27,9 +27,8 @@ estatísticas.
 
 ## 2. Resumo do projeto
 
-Uma biblioteca que é executada com Node.js, na qual faz a leitura de arquivos de marcação
-Marckdown e retornando seus links e nome do mesmo.
+Uma biblioteca que é executada com Node.js, na qual faz a leitura de arquivos de marcação Marckdown, retornando seus links e nome do mesmo.
 
 ## 3. Implementações
 
-Essa biblioteca está em fase de implementação, apenas identificando links do arquivo Marckdown. Para versões futuras essa biblioteca deverá ser instalada via npm e ler o diretório e verificar status e validação dos links.
+Essa biblioteca está em fase de implementação, apenas identificando links do arquivo Marckdown. Para versões futuras essa biblioteca deverá ser instalada via npm, ler o diretório, verificar status e validação dos links.
